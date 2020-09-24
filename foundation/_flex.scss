@@ -25,6 +25,12 @@
     align-items: center;
 }
 
+@mixin flexHrEndCenter {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
 @mixin flexVrStartCenter {
     display: flex;
     align-items: flex-start;
