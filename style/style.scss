@@ -2,3 +2,9 @@
 @import '../foundation/flex';
 @import '../foundation/root';
 
+.wrapper{
+    width: 100%;
+    height: 100vh;
+
+    @include header();
+}
