@@ -2,9 +2,11 @@
 @import '../foundation/flex';
 @import '../foundation/root';
 
+@import '../style/templates/index/main-area';
+
 .wrapper{
     width: 100%;
     height: 100vh;
 
-    @include header();
+    @include mainArea();
 }
