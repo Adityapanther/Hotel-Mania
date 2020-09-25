@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <path d="M0 0L50 0L50 50L0 50L0 0Z" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="Search-icon">
+    <path d="M0 0L50 0L50 50L0 50L0 0Z" id="Background" fill="none" fill-rule="evenodd" stroke="none" />
+    <g clip-path="url(#mask_1)">
+      <path d="M17 0C7.60156 0 0 7.60156 0 17C0 26.3984 7.60156 34 17 34C20.3555 34 23.4609 33.0156 26.0938 31.3438L38.375 43.625L42.625 39.375L30.5 27.2813C32.6797 24.4219 34 20.8789 34 17C34 7.60156 26.3984 0 17 0L17 0ZM17 4C24.1992 4 30 9.80078 30 17C30 24.1992 24.1992 30 17 30C9.80078 30 4 24.1992 4 17C4 9.80078 9.80078 4 17 4L17 4Z" transform="translate(4 3)" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>

@@ -1,4 +1,5 @@
 @import '../header';
+@import './search-area';
 
 @mixin mainArea {
    .main-area{
@@ -6,5 +7,6 @@
        height: 40em;
        background-image: url('../../../images/bg.png');
         @include header();
+        @include searchArea();
    }
 }
